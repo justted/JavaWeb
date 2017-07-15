@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  <a href="/KathyServlet">This is an amazing servlet!</a>
+  <a href="/KathyServlet.do">This is an amazing servlet!</a>
   </body>
 </html>

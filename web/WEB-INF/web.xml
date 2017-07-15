@@ -10,7 +10,7 @@
 </servlet>
 <servlet-mapping>
     <servlet-name>KathyServlet</servlet-name>
-    <url-pattern>/KathyServlet</url-pattern>
+    <url-pattern>/KathyServlet.do</url-pattern>
 </servlet-mapping>
     <servlet>
         <servlet-name>MyServlet</servlet-name>
@@ -18,6 +18,6 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>MyServlet</servlet-name>
-        <url-pattern>/MyServlet</url-pattern>
+        <url-pattern>/MyServlet.do</url-pattern>
     </servlet-mapping>
 </web-app>

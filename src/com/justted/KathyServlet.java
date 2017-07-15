@@ -24,7 +24,7 @@ public class KathyServlet extends HttpServlet {
         out.println("</TITLE></HEAD></BODY>");
         out.println("<H1>" + title + "</H1>");
         out.println("<P>"+PhraseOMatic.makePhrase());
-        out.println("<P><a href=\"KathyServlet\">make another phrase</a></p>");
+        out.println("<P><a href=\"/KathyServlet.do\">make another phrase</a></p>");
         out.println("</BODY></HTML>");
         out.close();
     }
